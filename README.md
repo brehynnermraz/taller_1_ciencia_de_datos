@@ -17,9 +17,9 @@ o cierre sin liquidar).
 - Entendimiento inicial de datos (dimensiones, tipos, calidad, análisis univariado del top 5 de atributos).
 - Definición y justificación de una ventana de análisis apropiada dentro del rango 2019–2025.
 - Construcción de 3 indicadores de desviación (plazo adicionado, no liquidado tras finalizar,
-  ejecución presupuestal incompleta) y contraste de 12 hipótesis explícitas mediante pruebas
-  estadísticas (chi-cuadrado, U de Mann-Whitney, Kruskal-Wallis), incluyendo tamaño de efecto
-  (V de Cramér) y al menos un resultado no significativo.
+  ejecución presupuestal incompleta) y contraste de 15 hipótesis explícitas mediante pruebas
+  estadísticas (chi-cuadrado, U de Mann-Whitney, Kruskal-Wallis), incluyendo tamaño de efecto (V de Cramér, r rank-biserial, ε²)
+  y al menos un resultado no significativo.
 - Informe ejecutivo con criterios de focalización de supervisión y limitaciones del análisis.
 
 ## Conclusiones principales (insights)
